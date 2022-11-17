@@ -1,0 +1,43 @@
+* {
+    font-family: "Verdana", sans-serif;
+}
+
+section {
+    background-color: lightgrey;
+    padding-bottom: .5vh;
+}
+
+h1, h2, h3 {
+    padding-top: .5vw;
+    padding-left: .5vw;
+}
+
+h1 {
+    background-color: darkblue;
+}
+
+h2 {
+    background-color: cyan;
+}
+
+.Central {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+.Obsessed {
+    width: 350px;
+    height: 200px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
+.Fast {
+    width: 350px;
+    height: 200px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+}
+
