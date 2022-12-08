@@ -54,7 +54,6 @@ body > article {
 body > section {
     width: 70%;
     float: left;
-    box-sizing: border-box;
 }
 
 #guarantee {
