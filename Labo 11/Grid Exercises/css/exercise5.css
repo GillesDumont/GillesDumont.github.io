@@ -14,7 +14,7 @@
 }
 
 .block.block1{
-    background-color: #33F933;
+    background-color: saddlebrown;
     grid-area: 1/1/1/4;
 
 }
@@ -23,7 +23,7 @@
     grid-area: 2/1/4/2;
 }
 .block.block3{
-    background-color: #3d8bb1;
+    background-color: darkred;
     grid-area: 2/2/2/2;
 }
 .block.block4{
@@ -39,10 +39,10 @@
     grid-area: 4/1/4/3;
 }
 .block.block7{
-    background-color: #EF233C;
+    background-color: orange;
     grid-area: 4/3/4/3;
 }
 .block.block8{
-    background-color: black;
+    background-color: deepskyblue;
     grid-area: 5/1/5/4;
 }
